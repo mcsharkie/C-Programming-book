@@ -1,0 +1,8 @@
+a) Identify the directives and statements in the program. 
+#include <stdio.h> - Directive
+printf()'s - Statement
+
+b) What output does the program produce?
+Parkinson's Law:
+Work expands so as to file for its completion.
+available for its completion. 
