@@ -1,0 +1,3 @@
+In the dweight.c program (section 2.4), which spaces are essential?
+
+ans: The ones in the printf function.
