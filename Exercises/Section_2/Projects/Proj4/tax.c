@@ -9,7 +9,7 @@ int main(void)
 	printf("yo bro, whats the tax rate today yo?\n");
 	scanf("%f", &tax);
 
-	printf("Yo dude, how much wanna put in nigger?\n");
+	printf("Yo dude, how much wanna put in ?\n");
 	scanf("%f", &dollarEntered);
 
 	float calculation = dollarEntered + ( dollarEntered * (tax/100)); 
